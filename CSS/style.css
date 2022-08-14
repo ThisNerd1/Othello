@@ -1,0 +1,26 @@
+#homeBackground{
+    background-image: url("http://www.millhouseantiques.com/wp-content/uploads/2018/01/st.jpg");
+    font-family: Gill Sans;
+    text-align: center;
+    color: aliceblue;
+}
+
+#rulePage{
+    font-size: 16;
+    color: gold;
+}
+
+#rulesBackground{
+    background-image: url("https://thedavanigroup.com/wp-content/uploads/2019/04/natural-stones-marble-marmore-invisible-greygold-s01.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#rules{
+    font-family: Gill Sans;
+    color: #484041 ;
+    text-align: center;
+}
