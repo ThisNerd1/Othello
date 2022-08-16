@@ -3,6 +3,8 @@
     font-family: Gill Sans;
     text-align: center;
     color: aliceblue;
+    align-content: center;
+    align-items: center;
 }
 
 #rulePage{
@@ -31,6 +33,20 @@
 #game-background{
     background-image: url("https://i.imgur.com/Qsy1Kug.jpg");
     
+}
+
+.button{
+  background-color: gold;
+  color: black;
+  border: 1px solid black;
+  border-radius: 5px;
+  text-decoration: none;
+  padding: 5px;
+}
+
+#oListBackground {
+  padding: 5px;
+  margin: 5px;
 }
 
 .container {
